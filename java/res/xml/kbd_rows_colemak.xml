@@ -36,6 +36,7 @@
             latin:moreKeys="@string/more_keys_for_w" />
         <Key
             latin:keyLabel="f"
+            latin:moreKeys="@string/more_keys_for_f" />
             latin:keyHintLabel="3" />
         <Key
             latin:keyLabel="p"
@@ -47,6 +48,7 @@
             latin:moreKeys="@string/more_keys_for_g" />
         <Key
             latin:keyLabel="j"
+            latin:moreKeys="@string/more_keys_for_j" />
             latin:keyHintLabel="6" />
         <Key
             latin:keyLabel="l"
@@ -63,6 +65,7 @@
         <Key
             latin:keyLabel=";"
             latin:keyHintLabel="0"
+            latin:moreKeys="@string/more_keys_for_semi"
             latin:keyWidth="fillRight" />
     </Row>
     <Row
@@ -72,14 +75,12 @@
             latin:keyLabel="a"
             latin:moreKeys="@string/more_keys_for_a" />
         <Key
-            latin:keyLabel="r"
-            latin:moreKeys="@string/more_keys_for_r" />
+            latin:keyLabel="r" />
         <Key
             latin:keyLabel="s"
             latin:moreKeys="@string/more_keys_for_s" />
         <Key
-            latin:keyLabel="t"
-            latin:moreKeys="@string/more_keys_for_t" />
+            latin:keyLabel="t" />
         <Key
             latin:keyLabel="d"
             latin:moreKeys="@string/more_keys_for_d" />
