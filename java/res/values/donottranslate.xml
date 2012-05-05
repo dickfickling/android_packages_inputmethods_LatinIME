@@ -153,12 +153,16 @@
         <item>en_GB</item>
 	<item>hr_AL</item>
         <item>de_ZZ</item>
+	<item>en_CK</item>
+	<item>en_DK</item>
     </string-array>
     <string-array name="subtype_locale_exception_values">
         <item>English (US)</item>
         <item>English (UK)</item>
         <item>Hrvatski (Alt)</item>
         <item>Deutsch (QWERTY)</item>
+	<item>English (Colemak)</item>
+	<item>English (Dvorak)</item>
     </string-array>
 
     <!-- Generic subtype label -->

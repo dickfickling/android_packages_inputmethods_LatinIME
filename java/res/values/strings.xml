@@ -336,7 +336,9 @@
     <!-- Description for Croatian (Alternate) keyboard subtype [CHAR LIMIT=22] -->
     <string name="subtype_hr_alt">Croatian (Alt)</string>
     <!-- Description for English (Colemak) keyboard subtype [CHAR LIMIT=22] -->
-    <string name="subtype_en_cm">English (Colemak)</string>
+    <string name="subtype_en_ck">English (Colemak)</string>
+    <!-- Description for English (Dvorak) keyboard subtype [CHAR LIMIT=22] -->
+    <string name="subtype_en_dvorak">English (Dvorak)</string>
     <!-- Description for German QWERTY keyboard subtype [CHAR LIMIT=22] -->
     <string name="subtype_de_qwerty">German QWERTY</string>
     <!-- Description for English (United Kingdom) keyboard subtype [CHAR LIMIT=22] -->
