@@ -31,7 +31,7 @@
             latin:keyHintLabel="1"
             latin:moreKeys="1" />
         <include
-            latin:keyboardLayout="@xml/kbd_qwerty_f1" />
+            latin:keyboardLayout="@xml/kbd_dvorak_f1" />
         <Key
             latin:keyStyle="punctuationKeyStyle" />
         <Key
