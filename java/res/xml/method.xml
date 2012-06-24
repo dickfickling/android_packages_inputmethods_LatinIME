@@ -136,6 +136,18 @@
             android:imeSubtypeExtraValue="AsciiCapable,SupportTouchPositionCorrection"
     />
     <subtype android:icon="@drawable/ic_subtype_keyboard"
+            android:label="@string/subtype_en_dvorak"
+            android:imeSubtypeLocale="en_DK"
+            android:imeSubtypeMode="keyboard"
+            android:imeSubtypeExtraValue="AsciiCapable,SupportTouchPositionCorrection"
+    />
+    <subtype android:icon="@drawable/ic_subtype_keyboard"
+            android:label="@string/subtype_en_ck"
+            android:imeSubtypeLocale="en_CK"
+            android:imeSubtypeMode="keyboard"
+            android:imeSubtypeExtraValue="AsciiCapable,SupportTouchPositionCorrection"
+    />
+    <subtype android:icon="@drawable/ic_subtype_keyboard"
             android:label="@string/subtype_generic"
             android:imeSubtypeLocale="hu"
             android:imeSubtypeMode="keyboard"
